@@ -476,3 +476,37 @@ engagement to operationalize the AI models.
 | 3:15&nbsp;–&nbsp;4:00   | Discuss and build high-level plan for MVP engagement                                                                                                                                                                                                 |
 
 
+## Build the High-Level MVP Plan
+
+To wrap up the workshop, you will spend 30-45 minutes discussing the
+next step – an MVP engagement. You will want to engage the customer in a
+facilitated conversation to discuss the following steps the MVP
+engagement will follow:
+
+-   Step 1 – Map out the customer journey the customer wants to focus on
+
+-   Step 2 – Develop the business case
+
+-   Step 3 – Identify and bring in the data to light up the specific
+    customer journey
+
+-   Step 4 – Identify the specific customer segments
+
+-   Step 5 – Define the specific action(s) you will take with the
+    customer
+
+-   Step 6 – Define the metrics that will determine the success of the
+    campaign
+
+-   Step 7 – Measure how the MVP performs
+
+The purpose of the MVP is to narrow down the scope to one specific
+customer journey, and then showcase how CI+ADS can bring that use case
+to life and meet the objectives of the business. After the completion of
+an MVP, the customer will be better positioned to take the next steps to
+grow their business via the use of AI in their marketing workloads.
+
+Your goal for this conversation is to get a commitment to move forward
+with an MVP engagement. If you cannot get the commitment during this
+workshop, then your goal should be to identify a time to discuss the MVP
+with the client’s stakeholder who can make the decision to move forward.
